@@ -1,3 +1,4 @@
 DAG_ID,OWNER,SOURCE,TIER,SLA
 test1,dxlx,local,T0,30***
 test2,dxlx,local,t1,15***
+test3,dxlx,local,t1,15***
