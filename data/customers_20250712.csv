@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,created_at
+201,John,Doe,john.doe201@example.com,2025-07-10
+202,Jane,Smith,jane.smith202@example.com,2025-07-10
+203,Bob,Johnson,bob.johnson203@example.com,2025-07-10
+204,Alice,Williams,alice.williams204@example.com,2025-07-10
+205,Michael,Brown,michael.brown205@example.com,2025-07-10
+206,Linda,Jones,linda.jones206@example.com,2025-07-10
+207,James,Miller,james.miller207@example.com,2025-07-10
+208,Patricia,Davis,patricia.davis208@example.com,2025-07-10
+209,Robert,Garcia,robert.garcia209@example.com,2025-07-10
+210,Mary,Martinez,mary.martinez210@example.com,2025-07-10
+211,David,Hernandez,david.hernandez211@example.com,2025-07-10
+212,Jennifer,Lopez,jennifer.lopez212@example.com,2025-07-10
+213,Charles,Gonzalez,charles.gonzalez213@example.com,2025-07-10
+214,Elizabeth,Wilson,elizabeth.wilson214@example.com,2025-07-10
+215,Thomas,Anderson,thomas.anderson215@example.com,2025-07-10

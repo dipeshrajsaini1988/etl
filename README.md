@@ -44,3 +44,30 @@ git config --global user.email "youremail@example.com"
 dipeshrajsaini1988
 drsaini123!!
 dipesh.saini@gmail.com
+
+
+
+-- when using python 
+--check python
+
+python --version
+pip --version
+
+pip install psycopg2-binary-2.9.10
+
+-- create virtual env
+python -m venv venv
+
+--activate on windows
+
+venv\Scripts\activate
+
+-- iferror try:
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+
+-- for mac:
+source venv/bin/activate
+
+
+pip install -r requirements.txt
+

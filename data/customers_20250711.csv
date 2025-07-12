@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,created_at
+1,Alice,Johnson,alice1@example.com,2025-01-01 10:00:00
+2,Bob,Smith,bob2@example.com,2025-01-02 11:00:00
+3,Charlie,Brown,charlie3@example.com,2025-01-03 12:00:00
+4,Diana,Prince,diana4@example.com,2025-01-04 13:00:00
+5,Edward,Green,edward5@example.com,2025-01-05 14:00:00
+6,Fiona,Hall,fiona6@example.com,2025-01-06 15:00:00
+7,George,King,george7@example.com,2025-01-07 16:00:00
+8,Helen,Scott,helen8@example.com,2025-01-08 17:00:00
+9,Ian,Lee,ian9@example.com,2025-01-09 18:00:00
+10,Jane,Doe,jane10@example.com,2025-01-10 19:00:00
+11,Kevin,Moore,kevin11@example.com,2025-01-11 20:00:00
+12,Linda,Taylor,linda12@example.com,2025-01-12 21:00:00
+13,Michael,Wright,michael13@example.com,2025-01-13 22:00:00
+14,Nancy,Adams,nancy14@example.com,2025-01-14 23:00:00
+15,Oliver,Baker,oliver15@example.com,2025-01-15 09:00:00
+16,Patricia,Carter,patricia16@example.com,2025-01-16 10:00:00
+17,Quentin,Evans,quentin17@example.com,2025-01-17 11:00:00
+18,Rachel,Foster,rachel18@example.com,2025-01-18 12:00:00
+19,Steven,Gray,steven19@example.com,2025-01-19 13:00:00
+20,Zara,White,zara20@example.com,2025-01-20 15:00:00
