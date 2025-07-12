@@ -1,0 +1,51 @@
+# NeonDB Connection Details
+
+This document contains the connection information for the Neon PostgreSQL database used for ETL practice.
+
+neondb conenction string:
+psql 'postgresql://neondb_owner:npg_OhjX4zcs8xdI@ep-bold-glitter-ae36genb-pooler.c-2.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require'
+---
+
+## Connection Info
+
+| Parameter       | Value                                                           |
+|-----------------|-----------------------------------------------------------------|
+| **Host**        | ep-bold-glitter-ae36genb-pooler.c-2.us-east-2.aws.neon.tech     |
+| **Port**        | 5432                                                            |
+| **Database**    | neondb                                                          |
+| **Username**    | neondb_owner                                                   |
+| **Password**    | npg_OhjX4zcs8xdI                                               |
+| **SSL Mode**    | require                                                        |
+
+---
+
+## How to Connect from VS Code (SQLTools)
+
+1. Install the **SQLTools** extension and the **PostgreSQL driver**.
+
+2. Open VS Code, press `Ctrl + Shift + P` and select `SQLTools: Add New Connection`.
+
+3. Choose **PostgreSQL**.
+
+4. Fill in the connection form as follows:
+
+| Field            | Value                                                     |
+|------------------|-----------------------------------------------------------|
+| Connection Name  | NeonDB                                                    |
+| Server/Host      | ep-bold-glitter-ae36genb-pooler.c-2.us-east-2.aws.neon.tech |
+| Port             | 5432                                                      |
+| Database         | neondb                                                    |
+| Username         | neondb_owner                                             |
+| Password         | npg_OhjX4zcs8xdI                                         |
+| SSL              | Enabled (SSL mode: require)                              |
+
+5. Test the connection and save.
+
+---
+
+## How to Connect from Python
+
+Install `psycopg2`:
+
+```bash
+pip install psycopg2-binary
