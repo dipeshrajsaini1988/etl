@@ -24,6 +24,15 @@ git merge new-feature-branch
 # push merged changes
 git push origin main
 
+# delete branch locally
+git branch -d <branch name>
+
+# delete branch on remote
+git push origin --delete <branch name>
+
+# to fetch all from origin
+git fetch origin
+
 -- test line
 
 
